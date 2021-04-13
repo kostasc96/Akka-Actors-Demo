@@ -27,3 +27,4 @@ part1recap/
 .scala_dependencies
 .worksheet
 project/target
+actors/
